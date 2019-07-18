@@ -52,7 +52,7 @@
     <version.disruptor>3.4.2</version.disruptor>
     <version.eclipse-lifecycle>1.0.0</version.eclipse-lifecycle>
     <version.fast-classpath-scanner>3.1.13</version.fast-classpath-scanner>
-    <version.flink>1.4.0</version.flink>
+    <version.flink>1.6.4</version.flink>
     <version.google-flatbuffers>1.10.0</version.google-flatbuffers>
     <version.guava>27.1-jre</version.guava>
     <version.hadoop>3.1.2</version.hadoop>
